@@ -1,8 +1,8 @@
-Random App Name89867
+Feature-tests-steps
 =========================
 
 ## Overview
-
+provides the traceability between features, tests, and test steps
 
 ## License
 
